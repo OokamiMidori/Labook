@@ -4,15 +4,25 @@ Projeto feito para funcionar como uma rede social onde os usuários podem se cad
 Tecnologias utilizadas:
 
 NodeJS
+
 Typescript
+
 Express
+
 SQL e SQLite
+
 Knex
+
 POO
+
 Arquitetura em camadas
+
 Geração de UUID
+
 Geração de hashes
+
 Autenticação e autorização
+
 Roteamento
 
 Para usar, faça um clone do repositório. Abra o console git no arquivo clonado e faça um npm install para instalar todas as dependencias.
